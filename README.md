@@ -118,6 +118,6 @@ Despite these simplifications, the model clearly illustrates volatility-related 
 Ensure you have Python 3 installed, then run:
 
 ```
-python etf-vs-cfd.py
+python VolatilityDecaySimulation.py
 ```
 
